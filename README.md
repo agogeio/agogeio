@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/stevenaiello/**
 
-- ⚡ Fun fact **I practice BJJ**
+- ⚡ Fun fact **I practice BJJ - https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
