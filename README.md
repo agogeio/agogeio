@@ -1,6 +1,6 @@
-<p align="center">
+<span style="display:block;text-align:center">
 ![MasterHead](http://www.reactiongifs.com/r/beavis-on-computer.gif)
-</p>
+</span>
 
 <h1 align="center">Hi 👋, I'm Steven Aiello</h1>
 <h3 align="center">A cybersecurity thinker and tinkerer</h3>
