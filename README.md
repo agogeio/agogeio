@@ -1,4 +1,4 @@
-[![MasterHead](http://www.reactiongifs.com/r/beavis-on-computer.gif)]
+![MasterHead](http://www.reactiongifs.com/r/beavis-on-computer.gif)
 
 <h1 align="center">Hi 👋, I'm Steven Aiello</h1>
 <h3 align="center">A cybersecurity thinker and tinkerer</h3>
